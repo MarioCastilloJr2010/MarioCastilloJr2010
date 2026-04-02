@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cupbot
+- 👋 Hi, I’m 
 - 👀 I’m interested in Cybersecurity and programming
 - 🌱 I’m currently learning python and automation
 - 📫 How to reach me ... mariodcccd@gmail.com
