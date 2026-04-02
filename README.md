@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarioCastilloJr2010
+- 👋 Hi, I’m @Cupbot
 - 👀 I’m interested in Cybersecurity and programming
 - 🌱 I’m currently learning python and automation
 - 📫 How to reach me ... mariodcccd@gmail.com
